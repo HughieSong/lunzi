@@ -1,0 +1,616 @@
+ffmpeg -i https://v.baoshiyun.com/resource/media-853394131451904/lud/d85c40cf1a07480db2e52d1d638ccadc.m3u8?MtsHlsUriToken=edf7f7bed063467e857028e6a695795e5755fdc659cd44cc8e6600d6247214d2 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/1、环境安装-先导课/1、mac下安装anaconda/anaconda for mac--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853394327044096/lud/031cb72a666c45e7a37e56e859587efb.m3u8?MtsHlsUriToken=9b160382999a4e458431d9c674e92356ccafcdc7afb745b8a73d930abe4ea233 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/1、环境安装-先导课/2、Windows下安装anaconda/anaconda--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853394595479552/lud/3616aa07a92b4b5a92b1ad1ad215e0d9.m3u8?MtsHlsUriToken=c1bb53c38f694653bcda0ed643ad286bdf93e564e8e1491c8af7edcbac4061dd -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/认识数据--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853394723831809/lud/109a53eb16c947c1bdb3b0b70427b856.m3u8?MtsHlsUriToken=51b0e435fe0a451fa951e207fe52a426474248a44227432681379484df353c95 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/二维表和一维表--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853394886885376/lud/d7a1e3ae584a467e81e5be8b4f3bc5cf.m3u8?MtsHlsUriToken=c96e5eb0491c4fc28c92dfc1b02dc3313a1c9a2ba2184f6d92fb8b7ce0ed5569 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/数据的导入--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853395136479232/lud/04d6f4f8dbde494ea29b00d3d182f340.m3u8?MtsHlsUriToken=20ea4bbef2f1433c93e90c7a430d4016781daac5c3c849389e63a59d791052d2 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/删除重复值的方法--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853395306872832/lud/d9facf0b73864f54830ee9072a5fd227.m3u8?MtsHlsUriToken=cac87010deda4963b3cc13a296caee219ab255e6f9c34171a0b247c1a9bc09ac -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/函数引入--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853395381911552/lud/143fbc2c040243a0b9e5d82addd306dc.m3u8?MtsHlsUriToken=ea104160e6e04a539eb380e3caee6de9ee21c52359404ee2903ef2cd550458cb -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/VLOOKUP函数--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853395484114944/lud/645c16c4e2e346ae825882e7734cae64.m3u8?MtsHlsUriToken=10bfeafe05ee485aa22fdb0a4cf1afa73b8703cb4aa44abb815f7c605fae2066 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/数组--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853395531300864/lud/a57dff2b97234f9d9b303ac7ebc719b8.m3u8?MtsHlsUriToken=e9f941ed374849ba89b721ed4444c7bc775ff354a2594650aa74c6dd53984508 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/相对和绝对引用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853395596771329/lud/6f33fe2a90bd4c58ab478c9903a44e4a.m3u8?MtsHlsUriToken=cfc18f0171d246af8afe063808c01799422eede1338b453281054e9040baec66 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/常用公式（上）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853395781877760/lud/de79ca7725bc481e8c4c79eec714748a.m3u8?MtsHlsUriToken=99792cbd53c447038766100afe48605fed7efe7f08684872a2c27554ca94928f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/1、攻克Excel第一节/常用公式（下）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853398642458624/lud/ca8fd7f0fa8e4496920f788f58303337.m3u8?MtsHlsUriToken=4cba56d17abd404f81a49ea2e7df0434f95c75f93b7e49cfac41fe4ba4616566 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/2、攻克Excel第二节/数据透视表--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853399585030144/lud/b94e1bedbfbd46ae986d2fb646763e41.m3u8?MtsHlsUriToken=0aacbdd6c8134f3898817f7d98986c5fee87c569a33d4124b5626eb500b0efb6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/2、攻克Excel第二节/金融案例--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853399806902272/lud/e81f8aa296284bbb9b8eca0897fef925.m3u8?MtsHlsUriToken=a499caabc4d44f45ae6a3056a6500e2fac00379013c449b5add4ee5cb141bdd1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/2、攻克Excel第二节/分析工具的使用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853399912775681/lud/947a4e44e3254481a5d18fd907e19bf0.m3u8?MtsHlsUriToken=2f017c093c2d4dd6b7db3ea09dd04208a5c6b555fba84812a249137b1f93d5c5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/2、攻克Excel第二节/拓展分析方法--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853400279252992/lud/a43a11f9fc0046429ba391c672063615.m3u8?MtsHlsUriToken=46c4646bd35b476d915382e0a1f917fdd9893655d6904ba8956c7943d2ca5615 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/表格的制作--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853402843578368/lud/7fa79bc95b6140ba8943b9e0960fb244.m3u8?MtsHlsUriToken=caec98ef5fc24b389266df38ce41b16efd952fc0564e41fc8263a1add4d4146c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/认识图表--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853403120336896/lud/3fa8a5bea5e24e6d94e78618ced3ad4b.m3u8?MtsHlsUriToken=beb9dcc2b8f245c9a42fb565b3db2de7905e0e6d4b144e48aecb2967b587e97a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/柱状图、组合图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853403164442624/lud/9572e5f5442543efb94754156f465a02.m3u8?MtsHlsUriToken=daca9b82ccb24f11abd5f9c5cab6ab963d8b2b947d4a49ed96b3e2f563ef3b8f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/平均线图、瀑布图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853403236794368/lud/f69f6b722ba04f6797e515166ba08edb.m3u8?MtsHlsUriToken=72d36e3cad4b43009300bef0257b4e7ffade467857d34e19852b1e41a61ab10b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/漏斗图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853403477344256/lud/93889bada2ff47e485b4e3a41ecaa858.m3u8?MtsHlsUriToken=59ffc03e0ebb4ed98a5804890a108fe1059ff275435f4bc7ab581424ca0cdba6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/饼图、复合饼图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853403554512896/lud/4f94247d87034f08ad095c5504e78670.m3u8?MtsHlsUriToken=85e8e29538ed4795bcc2dff7f94713e1536390d4d94442f4a0d23f6be78c85fe -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/直方图、散点图、气泡图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853403649343488/lud/5f35d36cb76e45499409cdf036ea8514.m3u8?MtsHlsUriToken=3c0af0411dd8455b8ed6864ed4a57960e6f563ef6d9e4380a063c7fe4e6ab038 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/3、攻克Excel第三节/雷达图、地图、SmartArt--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853403779956737/lud/189b859e736844928667f570a1524bea.m3u8?MtsHlsUriToken=719e2d02c0064423a04fa47be455149c99c96e1e81fa405e91a62d01af893aab -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/4、攻克Excel第四节/核心数据--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853404432695296/lud/c8762fef446449188b9b217b39c6fe3f.m3u8?MtsHlsUriToken=e8b53b6ca162454ea04f148e0eeb025e3423bce5997f416187eb5681ff0c3873 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/4、攻克Excel第四节/核心指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853404505473024/lud/91a8f23460264ac491df142566971440.m3u8?MtsHlsUriToken=db97d1bdaaf24a16be22e20d1b972abee4696ac5252649b781b0e11911d4b0ae -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/4、攻克Excel第四节/核心方法--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853405646946304/lud/13fd7ad3f2584661be62a35e30cafdc9.m3u8?MtsHlsUriToken=86077b27d1d3410093c6d4859301f826f24628fd7bb04b00871b79dc6172fd1b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/2、Excel-先导课/4、攻克Excel第四节/总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853405856137216/lud/e7822d271c2d4b43a4e6c3645e932b28.m3u8?MtsHlsUriToken=287c2bef71c843f6a21790f49c31750db9f8750160f44ad6a5a10c27cc760f32 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/3、Python-先导课/1、Python案例/Python案例--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853405957783552/lud/ae0f120867c6418da7bde26e453943b4.m3u8?MtsHlsUriToken=d0a8413d17494ceca104eae9fcc297b790de6ed029e0471099eca04262384dd9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/3、Python-先导课/2、Python基础入门/Python基础入门--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853406167007233/lud/7aa780c249e3443791803e9a2f5f1047.m3u8?MtsHlsUriToken=4f390b6e090d4ccb86ef955550f2095b3fe9825089d44295ba248f675f90e170 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/3、Python-先导课/3、Python进阶/Python进阶--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854531376087040/lud/7a6112ba53314b9f8dd59b49349f0ab1.m3u8?MtsHlsUriToken=80e7d4009bbb4815a7a30a2fc9403cca7b4a9902737c413cb4aa96837a37ed08 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/1、开班典礼—Python简介及环境安装（直播）/开班典礼Python简介及环境安装--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854566995197952/lud/58f1b15e8077439aad8684a0f4194bc0.m3u8?MtsHlsUriToken=956d9089179f464c8f235af1fb1be6f5a9c78f7a5bed457f89bca6b57a2e7345 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/2、Python基础知识（一）（点播）/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854567267729408/lud/d5bb037735e94aaf9cba6526e0c7c27d.m3u8?MtsHlsUriToken=fc68d4fc87e54edb81c51049488473ac30266b1c45be4750a03a576b43d3533c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/2、Python基础知识（一）（点播）/语句与注释--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854568565964800/lud/db4ebb0e95c64aae8844070da6b4529b.m3u8?MtsHlsUriToken=1e738308dbab42d685c7e63c2921f1bcb8a74182be6240a19292bc3c2997c332 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/3、Python基础知识（二）（点播）/变量与赋值--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854574092943361/lud/c184a770e29e4e888aed880ee5b5e9b8.m3u8?MtsHlsUriToken=e02ec43897f4409bbac15ca27c6c3691c8798c78da18461ebfdb9a3fadc52182 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/3、Python基础知识（二）（点播）/输入与输出--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854568896790528/lud/29166ab1365d49098fce969a020ab52e.m3u8?MtsHlsUriToken=4047a1fe3c8542389d9d6262164eb6acfb9543aee752496290963c1971702c80 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/4、Python基础案例分享及答疑（直播）/Python基础案例分享及答疑--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854568982151168/lud/27494631c93041d98d0dc35b65467d25.m3u8?MtsHlsUriToken=dcfa141ebfe7446780346be627e1b82371124867f28b4c5385a9e44e9bca9d96 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/5、Python数据容器（点播）/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854568992210944/lud/9f8a8460f48b4f5d9abb0b331475668b.m3u8?MtsHlsUriToken=7144ed4544344e97a3757181a0083049a10ea14f31ad45fc94de292024726b40 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/5、Python数据容器（点播）/字符串--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854569105883136/lud/4e5591355f1e4973a6cc1ad10976af4e.m3u8?MtsHlsUriToken=15ec6b975e724a7ebd3af4e9e9e1f255f962068317c94342ac7cc66e9bd6e795 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/5、Python数据容器（点播）/列表--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854569490743296/lud/fd3f1f5934754f5e8ef94763a842bbc0.m3u8?MtsHlsUriToken=3fdf7cfcbb3844ccb4b183c4c460d824057d2b745bbf4b7b96b9929aec8eb9b8 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/6、Python容器案例分享及答疑(直播)/Python容器案例分享及答疑--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930521817088/lud/81fc0789c3364afbbce469c41c16f285.m3u8?MtsHlsUriToken=393654265bdb4f89a8f366e4c9ef38f4e592b46a6d7e43739362453cd693fc3f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/7、函数（点播）/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930537447424/lud/a42564c33de647cd86ee040809e4218a.m3u8?MtsHlsUriToken=835c581577fa47f296b87041b3529a9f2b8b6f4bb466410ba48aca0f74722b19 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/7、函数（点播）/函数的简介--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930551701504/lud/ea78eafb6517409ba1a88388f35da2a0.m3u8?MtsHlsUriToken=ede79be0674e4ff19660cee7264ed0acdd6cd4294c3e491390e4918b44009606 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/7、函数（点播）/函数的定义与调用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930573197312/lud/a0d5172613984f4e8c91a91a34e21dc1.m3u8?MtsHlsUriToken=72bee27540a74deb91449db8104c30273118ba5f9e234c9da739a08297c8f5d2 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/7、函数（点播）/函数的参数--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930681692160/lud/4f6fbca93a7d46d99aa1f00b7dec3d68.m3u8?MtsHlsUriToken=7e7af15e50514f39b813d7e5689dea2e8dd026de5b474bb78ecc86a7d6babc1b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/8、异常（点播）/局部变量与全局变量--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930693259264/lud/c2e6af9979f9403ca9ae395664362f05.m3u8?MtsHlsUriToken=9e654cf8b58d4d76be96d6b686b3b6acaf178528341a4627aa36aefdabca04d6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/8、异常（点播）/捕获异常--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930722095104/lud/e650f9fd12d048b6a52526efbc8da0b6.m3u8?MtsHlsUriToken=7202220f923040d9be6ba3d4bf20e8bb37f530f4aa4a4a3b9e89c56220bab7f3 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/8、异常（点播）/本节总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930916540416/lud/0542a7671bf94cd3849b8ddc813603a9.m3u8?MtsHlsUriToken=402e3762682b459cae89ad02f5ac2cfee8a43c59d4294fb1bb6e2fcc35fcb8ab -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/9、Python函数案例分享及答疑(直播)/Python函数案例分享及答疑--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930977914880/lud/7d8f16d86e89453a8aca286b4b326c65.m3u8?MtsHlsUriToken=0754c2a024954423a5fc8425878bcc59616b2de0f553435bad2634ae9bc51d2b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/10、面向对象（点播）/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930988367872/lud/930c4985c800430abeea66809de8c403.m3u8?MtsHlsUriToken=fb302170efe4485db0077f82274a8fd589d047329caf4ab2ba218c571a6a4e64 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/10、面向对象（点播）/面向对象编程--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854930999410688/lud/3668bfdfd95f479a808c7ab01b955a2f.m3u8?MtsHlsUriToken=e5d1f9e55f904d039af6f0787b0d56ce8949fb92b7154409b05a09f260dd570a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/10、面向对象（点播）/类和对象--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854931058688000/lud/fedf66838fa8447691a9c54341b1b232.m3u8?MtsHlsUriToken=5e30751e020f42aab0fa52ebf131a428ed45289008da41c087645538cc79ce0c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/11、面向对象案例分享及答疑(直播)/面向对象案例分享及答疑--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208677998592/lud/c376b39cfd31417eac9f89016e600e77.m3u8?MtsHlsUriToken=96bd19f52c054b43bb65405f7c656f78b80503744e004b6186b6246d89a44a67 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/12、Python模块（点播）/模块--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208764538880/lud/6e2344027e834c0c8c83a3a16261c493.m3u8?MtsHlsUriToken=594d2dc06f2940df96244ccb069c826699670d7c73704fb8bf10e47848ca9325 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/13、Python爬虫基础(点播)/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208773419008/lud/8fdb1d01115a41c8abd49017bba46f0b.m3u8?MtsHlsUriToken=39d5293edf3941b6aa50223dcaa119893541d0afc89447c8bfd496a87015f919 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/13、Python爬虫基础(点播)/爬虫基本认知--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208783904768/lud/49bc8083d046464a8b635d2f7daf77ed.m3u8?MtsHlsUriToken=9dad0e8af9404493b4aa25b5c29e5acaedfd72264e024eb1af8625340161277a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/13、Python爬虫基础(点播)/网页基本认知--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208812740608/lud/179589016ca841608ab796997c77fce7.m3u8?MtsHlsUriToken=bb822427e98e4c4991696518772fecd41d260d7c2f474311b88613ac237c1758 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/13、Python爬虫基础(点播)/网页构成--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208843247616/lud/28a9539c98734623b9d90e7d644e7f23.m3u8?MtsHlsUriToken=03820a47bd2e49aa8f4d1e2d85288bea7003144d50ae481481b947b4738ad629 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/13、Python爬虫基础(点播)/XPath--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208919760896/lud/d4844e0eb4974312bd89a571a2fc1d9b.m3u8?MtsHlsUriToken=74eb17044d43482bbe21b06d6b9fb01c8c2f98f1cbac4fe1a904f8aac5b3360e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/14、爬虫案例分享及答疑(直播)/爬虫案例分享及答疑(直播)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855208946466816/lud/384011c6ce5048218042c93ae69d507f.m3u8?MtsHlsUriToken=169523490fb94454a45dfaa821bbd993e3fe9036d5814d7fbc2d8d1cef1dd92f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/15、Python爬虫常用库(点播)/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855209006792704/lud/b565f48a83f542738a90a98ef20ecbb3.m3u8?MtsHlsUriToken=42637448acd04ee5a9aa254351dbba302ec8a860db0e4f38ae6c5f7c5cbb197f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/15、Python爬虫常用库(点播)/BeautifulSoup库的基本使用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855209021505536/lud/549c296ff5344173a39322f7691e25c3.m3u8?MtsHlsUriToken=7a34d6a7615f4e428b2f250a2f387f399746ac2c435546548707060484145f17 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/15、Python爬虫常用库(点播)/文件基础操作--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855209710321664/lud/ad403256f55e41289b5c5ff2b43abbe4.m3u8?MtsHlsUriToken=ddcbe34a08a6495b80ce04a07c3646c6899528c080764d2e8ee84cee0f8bb9b7 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/16、爬虫案例及文件扩展及答疑(直播)/爬虫案例及文件扩展及答疑(直播)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572563787776/lud/2f267fe7332840dd85072b31a1ab56a2.m3u8?MtsHlsUriToken=57d9e7248c444645a27a099d2b2cfcec3713ba435fd24a56acb29a168d22fc0b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/17、Matplotlib可视化上(点播)/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572575846400/lud/b51733325135476b92d8ffbe17728bf8.m3u8?MtsHlsUriToken=ad2409f5f5d341e6bf6f4d2bb99cc5e9f2b62f04064c444aa6c1831deca9f29c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/17、Matplotlib可视化上(点播)/认知Matplotlib--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572588494848/lud/74747d5a18ac4d12bee4320cd8f46a1e.m3u8?MtsHlsUriToken=ad360cd5cedd4a118014d5fb0e54b68da2ff6900449a428b993105fe80333f8c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/17、Matplotlib可视化上(点播)/常见图形种类及意义--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572603633664/lud/15a70f77a1464362abbb091c4f8ad5f0.m3u8?MtsHlsUriToken=f92fab6482a748099430d03c52552f275f104d3668e149e8b54bb0a78b821ff9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/17、Matplotlib可视化上(点播)/Matplotlib画图的简单实现--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572613627904/lud/c75bef08558145a7aad3050203124c53.m3u8?MtsHlsUriToken=abebf6b807184c0c80917b5448d790e4472c733e25264841ba8afd4d605914d6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/17、Matplotlib可视化上(点播)/Matplotlib图像结构--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572689059840/lud/24faf6869df842a78bba757380c7beeb.m3u8?MtsHlsUriToken=836745af94b24727aacd36c95fc5b0b34ab75e2b9c7649f88268ba9cccd40712 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/18、Matplotlib可视化下(点播)/折线图   上--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572707999744/lud/7f6468bf4a84434f9882a6804e441f3f.m3u8?MtsHlsUriToken=10d3edba975d45c2bca0106ec61e57bf0c415d96f06a402c9c3c7ff0e4f422f2 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/18、Matplotlib可视化下(点播)/折线图   下--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572747288576/lud/220525a1399a47e9907d1d0818b9392a.m3u8?MtsHlsUriToken=9fa3d56f4f6d467e94c52aff88fd38720bad665bed2b4906857b2829e059fae8 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/19、Numpy数据处理(点播)/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572765671424/lud/9399d43d5a274ef686aa95df693d92d2.m3u8?MtsHlsUriToken=72093df0c8d84fa7885077b686fc555107184c8b74944d489868c3a9f3796213 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/19、Numpy数据处理(点播)/NumPy认知--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572771930112/lud/96266373c8354810a6a68d950f071af0.m3u8?MtsHlsUriToken=8603e8c4e2934f88bfcffab5cb3501f8742581d22a674798b65929ef493d5d7b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/19、Numpy数据处理(点播)/NumPy 的Ndarray 对象--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572863746048/lud/cb9c42a33bed4c659ef7550341be9381.m3u8?MtsHlsUriToken=33c49e8f5713408da171f190004b644b7dce923b186d493d854da99f5a8d73de -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/20、20210922matplotlib及Numpy数据处理及答疑(直播)/20210922matplotlib及Numpy数据处理答疑--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572894580736/lud/fa62ca811afc42839f5d17aa026ab782.m3u8?MtsHlsUriToken=3e22e7b3fd734022bceb78a5ade32c60a8c7c8f384cf4955ac07bde9abbdb799 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/21、Pandas数据处理一(点播)/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572902477824/lud/441f1404f8e9434aad9872dda5783f38.m3u8?MtsHlsUriToken=39cbdf0207714f7f8af0273625a211d052f9525cac14469694a3ba4b8f1af46f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/21、Pandas数据处理一(点播)/Pandas简介--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572909883392/lud/ce41af82ea0044e3a8d254c72e5894a4.m3u8?MtsHlsUriToken=f79d0a642584460c97d73b38ead133bbcb05ef6491574442af80d33099c7b7c9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/21、Pandas数据处理一(点播)/Series对象--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572927676416/lud/12fc2fe9798e43c5a011c3987da76715.m3u8?MtsHlsUriToken=150b97030b9249dbb64f7db83c4fbfa35adc0bf9537c4bc1a3b6ddf8ef5cf88a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/21、Pandas数据处理一(点播)/DataFrame对象--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855572961263616/lud/f47b42be355d40d59990c717dc80ac57.m3u8?MtsHlsUriToken=6dc2b2f12d8b4f8a8cdcb602fb11c03b1d250644c1d042688c35ec492dc4e516 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/21、Pandas数据处理一(点播)/数据处理--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855573032501248/lud/8a311b0074f6408f935a43a9b485a380.m3u8?MtsHlsUriToken=4725bff6498e4c4994177848089f094cd6628d0d99464e78b922270f7839796e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/22、Pandas数据处理一下(点播)/本节总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855573091811328/lud/5419e10df4824f7ba2a6e871b01dfb45.m3u8?MtsHlsUriToken=d4e1cb0b4e54454b8fd32edbb3e9676803649d8f624344fa822292f2dd6e2775 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/23、20210924Pandas数据处理案例分享一(直播)/20210924Pandas数据处理案例分享一(直播)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855884007178240/lud/c7e05cf086ab42139914862c5285ed24.m3u8?MtsHlsUriToken=c359e0316d6647a7b5d3354014034a5eddd0500236074649ba2debd11e7c9616 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/24、pandas数据处理二(上)(点播)/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855884052791296/lud/8a702ead3f9243a2b4141904acced36a.m3u8?MtsHlsUriToken=974a1027015945b3b98e74fe2acc5726b1a195489d9045ce8df331391281dea8 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/24、pandas数据处理二(上)(点播)/数据合并--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855884195397632/lud/c9ced9461a4e45b1ae395bc487c1dc97.m3u8?MtsHlsUriToken=80d5495d23af4d6f81d0d6f859c64fa8806d2988a1f2452f9ea397aecd5cc333 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/24、pandas数据处理二(上)(点播)/多层索引--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855884467961856/lud/26341d7496e844bf8e818cc673846720.m3u8?MtsHlsUriToken=c588975dec7b47f9a56716c826624e3298962c25e2824113ae7a6607297afda9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/24、pandas数据处理二(上)(点播)/时间序列--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855884616892416/lud/150f4ab361ac4bfabe2777da4bed61db.m3u8?MtsHlsUriToken=1441795d93754ffb855634b872b144fbe204dd4d1c8449fc91b7475b6c469b7b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/24、pandas数据处理二(上)(点播)/分组聚合--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855885067223040/lud/9f83d7b60b1a47a8938576ad82023c8c.m3u8?MtsHlsUriToken=4158d4653b5a4c8d97d1c2e932ea394683c21dfea52f4403bf89e1facd1d5cb3 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/25、pandas数据处理二(下)(点播)/本节总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855884849152000/lud/8ce7eb1f62b540469945f7f769fa2c7c.m3u8?MtsHlsUriToken=a8aca33487674e6bb0bbe52b66d6c4b0d1a41a3ccbc845ef91431c1d6d863b95 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/26、20210929Pandas数据处理案例分享二(直播)/Pandas数据处理案例分享二(直播)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855884908888064/lud/4d522ab2f9e343e1a7f34b77a7d60ecf.m3u8?MtsHlsUriToken=d1a3b1c0adfa4c328f17855cfd77b4de6f49bdb80cbe4c06bdf812b9bbf02329 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/27、20211008Python知识串讲 （直播）【赠课不参加返现】/Python知识串讲 （直播）【赠课不参加返现】--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510077239296/lud/8a03faa25f684c27a7d8736e646c0579.m3u8?MtsHlsUriToken=06bd5558a7a342038a7f1faa42c163094bdba7e487364af5bf039de77320410f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/28、Python案例-电影数据分析（上）（点播）/12-1    本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510176821248/lud/604955edb31c47fd9b3ad2850bfbebab.m3u8?MtsHlsUriToken=2817b2608b314a11b2095588d29be031ba312bd190b744b0812950e302a543ac -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/28、Python案例-电影数据分析（上）（点播）/12-2项目背景--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510196252672/lud/acc9eabb0ff840548840dee32c6b9e99.m3u8?MtsHlsUriToken=5109ce8ff783414cb57e43757c9007f63579441abe6e494e8200dab63f08f6a9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/28、Python案例-电影数据分析（上）（点播）/12-3拆解项目--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510212571136/lud/7df50a7fe46d4b3e994f0dd0982b73ad.m3u8?MtsHlsUriToken=d13a0f71fbf64700a75a8c32eb6b588e905a8235c0b24c5ab375340578fa0f28 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/28、Python案例-电影数据分析（上）（点播）/12-4项目实操-读取数据--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510241832960/lud/74c766356ac04ceead52d44ec75c1ef0.m3u8?MtsHlsUriToken=8fa8b640f39241ffa3db7ec8029669c7733bf5cecd4a405bb302cdedd17cf376 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/28、Python案例-电影数据分析（上）（点播）/12-5    项目实操-清洗数据--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510335188992/lud/51e122c6f0df4398abca2dc3cfe44e92.m3u8?MtsHlsUriToken=29dd904f0db045b1a32ca116220960f069e836d266984959851c6fcb8c300909 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/29、Python案例-电影数据分析（下）（点播）/12-6项目实操-数据分析上--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510358847488/lud/a4e146ed829b4748ada78ca4c2ee9be0.m3u8?MtsHlsUriToken=65bfce768ccb4b32bfca93be8aba24aaa3473bbc82024454b38e323719ab81f5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/29、Python案例-电影数据分析（下）（点播）/12-7项目实操-数据分析下--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510392303616/lud/63d9060e347b4602b07de3216f9185c7.m3u8?MtsHlsUriToken=f022831ff941454892e9a12ccd20c8b2312a8f851e1e41758f9cf10d124041e2 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/29、Python案例-电影数据分析（下）（点播）/12-8本节总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510875238400/lud/2e8e65b251534b57bca00aac4fc3290b.m3u8?MtsHlsUriToken=66a3992ccb3642e0a1eb2c1d98870b69ea25b420277b4a4fac469aafd8d2608f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/30、20211013python-电影数据分析（直播）/20211013python-电影数据分析（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511332352000/lud/87affe408b0940a49095f133724fda4d.m3u8?MtsHlsUriToken=fc1e92426997425496322f277889a7af937e83bb8edd46d6949a44c67cd0fbb7 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/31、python案例-电商销售（上）（点播）/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511393234944/lud/53aa2f87ccbe43f4a58e0e1ef223ed6b.m3u8?MtsHlsUriToken=ca443b42a5c241d5b8319616606dd338c89c2429eb0a4c4d905a9efd1056271a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/31、python案例-电商销售（上）（点播）/项目背景--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511413125120/lud/1dbe9aeb65224e7d92955b7b7335975c.m3u8?MtsHlsUriToken=445b484a056b45f0b7b78fcb6e0d97634c4a9acf0a664fc3a91dafb24a235bc5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/31、python案例-电商销售（上）（点播）/拆解项目--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511435112448/lud/e2c9e11c6ed84506bb65ff0d4d74e8ce.m3u8?MtsHlsUriToken=31ce406ebbd84624bd3b877a62c9826722434f040a814695858e7287c7f97acb -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/31、python案例-电商销售（上）（点播）/项目实操-读取数据--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511488131072/lud/b973aaee5bea4450a405768b23378f77.m3u8?MtsHlsUriToken=a89efdc8ec9643ce8314e1eb915e7f35c6fa80c6bd514d0898ce8ba9435f05bf -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/32、python案例-电商销售（下）（点播）/项目实操-清洗数据--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511572508672/lud/a8ecd4d5aa744b3fb1058dcf59d2f10c.m3u8?MtsHlsUriToken=ddca90bb0cbd4d1f86325bfc1281defd401a7b457ce94dd7b981a95a7ba8f976 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/32、python案例-电商销售（下）（点播）/项目实操-数据分析上--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511608160256/lud/5d6f96fb2ed04d29b0c7872a081f19cb.m3u8?MtsHlsUriToken=4f480007b232423fbe8ba5d509536b1005b86867230a4d9e8d8021f38dcdd86d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/32、python案例-电商销售（下）（点播）/项目实操-数据分析下--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511684706304/lud/9a281ae707c642dba06b5bf78b8cdef0.m3u8?MtsHlsUriToken=ab73b7513cae428594cf441ce859cc91fe64161fa87745a0a84c926cdfaadaaa -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/32、python案例-电商销售（下）（点播）/本节总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856511837863936/lud/4f7d03a0e3cb42cebc874e2e2c68be89.m3u8?MtsHlsUriToken=5112deb5e9f54dba9402cac5a07183e2fcd5f4ae48de4c99b8571a570cff168d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/5、Python/33、20211015python案例-电商销售（直播）/20211015python案例-电商销售（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856824492228608/lud/0a9c16e41de84f8d8de73d2d72a19e71.m3u8?MtsHlsUriToken=3f714e582c024d59b1129e6f03fa10136cd060db35eb48648b4ae533447ff17c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/2、数据库阶段简介及工具（点播）/数据库章节指引--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856824625987584/lud/4f1da3f6a4364abe97b3e5c2d13f59ff.m3u8?MtsHlsUriToken=a71e4b6ea1ff4bf39a923f504b0e1464b561d0874aca4c5da314db0af04d16b1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/2、数据库阶段简介及工具（点播）/mysql数据库认知--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856824644763648/lud/896d21c9b9384721880903b1b73bc437.m3u8?MtsHlsUriToken=87524dbd2062411a95e0a483667a2897599bd7fe9f6a4e78ad88aa400207be9b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/2、数据库阶段简介及工具（点播）/navicat简介--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856824666324992/lud/9f9d6d54d959450c836c2466df3a63b7.m3u8?MtsHlsUriToken=fcf4be1718a24f5abb3a9fabab890dc6284f03d4c20949988efcc37bbf462e2e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/2、数据库阶段简介及工具（点播）/navicat管理工具--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856824903761920/lud/467c1edce2de42319468ddc8fd051b4f.m3u8?MtsHlsUriToken=4dad6f6180b24770b5bc8b950b56e1957e4c3a51a6c8402b98e1261859d1a6bd -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/3、MySql的基础查询(点播)/mysql数据库基础操作--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856824995020800/lud/54de7033f8ac4dc58dfc43b09293ad1a.m3u8?MtsHlsUriToken=be046ef968654b628bb02778468f7f4efda8a1804f58454da2c745d5759e0c4a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/3、MySql的基础查询(点播)/SQL基础查询语言--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856825493651456/lud/3a0467cd259043179d77d98287278ca9.m3u8?MtsHlsUriToken=f911495588f2475f9dea26e7cfa98b83ace04bfc384342b7a6f7c8333e584fd6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/3、MySql的基础查询(点播)/SQL函数--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856825655590912/lud/556e07e689af4874bfda0ff655167b2e.m3u8?MtsHlsUriToken=f8917f9d1b58484f86ef7f6ea2c24783adb47ca1fcc849c2868416de58f5651a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/3、MySql的基础查询(点播)/数据类型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856825734791168/lud/0dcd240f390e4581bdf74533dc369d5f.m3u8?MtsHlsUriToken=986c739df84c46adb727a0a097721289ec734365428847179179eb325aea66bf -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/3、MySql的基础查询(点播)/总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856826182533120/lud/343ab5589c48447cb0fc8ab39e15288b.m3u8?MtsHlsUriToken=97a9ea76786e4360b80a0c250fdb5f278ea024b8280b4c97ab586b842d6f19f6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/4、20211020MySql-03金融业务数据匹配与探索(直播)/20211020MySql-金融业务数据匹配与探索(直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856826314129408/lud/7af6ad529c8d423183f82359e89bc69b.m3u8?MtsHlsUriToken=4400df4ba81741a6ae6d3d0432bba4377943a7a7f456445b9447db9d7688651e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/5、MySQL_金融案例-复杂查询（点播）/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856826391232512/lud/e9dc925eb94e4234803be8852c605270.m3u8?MtsHlsUriToken=f70d2bb10f364e069ee5d033962e70166d6ac36cb40948a68760120528ce6da8 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/5、MySQL_金融案例-复杂查询（点播）/语句执行顺序--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856826446249984/lud/7b9f9d9cbc5c4feba5d7ef2cd71831f3.m3u8?MtsHlsUriToken=64230a29f72a47c3bc0aabf49f35be773fc724b3ff9f454dabab01c26469017b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/5、MySQL_金融案例-复杂查询（点播）/SQL多表联结查询--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856826633420800/lud/f5acd362063e40c9bb0789194fae0242.m3u8?MtsHlsUriToken=d449d12332b04cf491b90ec1b43d82b7496ca0bd44a04db8ab401b75defc6f4b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/5、MySQL_金融案例-复杂查询（点播）/SQL子查询--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856826731003904/lud/0782504ab6dd4e7a9115ab408dba615f.m3u8?MtsHlsUriToken=9aa5e84a11584a1dab3046d6bbd9354e6e4ae3b3428c41fbbc199fdb1a2ee809 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/5、MySQL_金融案例-复杂查询（点播）/排序列问题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856826809090048/lud/0722d44e809243309dd22228bff45ebf.m3u8?MtsHlsUriToken=cfbdb5865c04417081ba21868a7f401f57acec24ff0244a89774747307f85945 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/5、MySQL_金融案例-复杂查询（点播）/总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856827120517120/lud/4c570e395d7c4bf495113f4ef4ae5848.m3u8?MtsHlsUriToken=25869c23a9614e2da60987f44fe2a629e9272f304fdb4e1eb60981732578cd3b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/6、20211022MYSQL-金融案例-其他操作（直播）/20211022MYSQL-金融案例-其他操作（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857017341640704/lud/d2e1a850a6e7419496d58705b2345d36.m3u8?MtsHlsUriToken=f6026abad87b4c4bb690402fdab76a4e390c6614508d4d3b93d3724d2aeedb2c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/7、MySQL安装资料-Mac安装-本节不算考核/Mac安装MySQL8.0--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857017515180032/lud/358a484eec344a559ce5f573e08c075a.m3u8?MtsHlsUriToken=f0896f41e2c94ed4b8158766a284c41341724cc0220340c3b8fe19f4b505d330 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/7、MySQL安装资料-Mac安装-本节不算考核/Mac卸载MySQL--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857017724928000/lud/3d1e608ce92a40ed9d621efd8270516a.m3u8?MtsHlsUriToken=8cfc40be8713446586a9f4b9e3c1146ed9e399c98da144e380a7073fbbfc9206 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/8、MySQL安装资料-win安装-本节不算考核/win  mysql8.0安装--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857018151075841/lud/e7e7a1a32539498dbdc638ca4c2c7f23.m3u8?MtsHlsUriToken=06a00b6daf5a46eabf426ba8ba2054c55131050a1769474dbef760552df960ce -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/6、MySQL进阶/8、MySQL安装资料-win安装-本节不算考核/win卸载MySQL--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857158951829504/lud/c053388729354ef480871888b07ee1a4.m3u8?MtsHlsUriToken=36ac68bb3b8a4b07a1e1c3900f88fd538221e8ae1bfe407c90b8837ca5ee8d53 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/1、Hive云实验平台（点播）/云实验平台启动hive环境--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857159472480256/lud/13fd88e099c848c98976656101569cc9.m3u8?MtsHlsUriToken=6bd9f5d70294401681c25fb0e7f81d90591a1f7cf26143dcb04e6e6dcc9182d9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/3、Hive基础（点播）/大数据分析简介--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857159522287616/lud/56581d058a1c41e1a2a911cf50f03404.m3u8?MtsHlsUriToken=e303811b4d044e5b9647e64f4fb5106e14472294080a400aa627509a5c26027f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/3、Hive基础（点播）/走进Hadoop--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857159570980864/lud/6b7ce551d8364d3d9b2e30b40ccc6878.m3u8?MtsHlsUriToken=13a8ae7cc6a142748d143ea061428c119847e554d7224b12a50dd82747bedd8e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/3、Hive基础（点播）/hive学习引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857159603519488/lud/842976d3f4bf403aab84bd504747dd67.m3u8?MtsHlsUriToken=38c4b6d69bc544b7a87b338525c36a75d25d18fa399d4b478ee02a8c621f55ad -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/3、Hive基础（点播）/走进Hive--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857159757692928/lud/d740e52e7dc24168a26738d9dd9540a6.m3u8?MtsHlsUriToken=1866addeb2174ca7b2d944289a02b85adbecc1d17c894ca3a2cf84e16b29de54 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/4、Hive核心技能-常用函数及综合练习（点播）/基础语法--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857159823654912/lud/f52e0f70c9a7448ea0496a6bf37af43b.m3u8?MtsHlsUriToken=c6be4a9d79bb4ab4ba1fd9b794c07bcf20a9bd895852411d9e851f4c6e38092c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/4、Hive核心技能-常用函数及综合练习（点播）/常用函数--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857159978909696/lud/8ca26921f9d44022abf5d4c53a402aea.m3u8?MtsHlsUriToken=b517cd8b3163455a99695bdf27055764615cd150294541b39e215a4318fb02bb -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/4、Hive核心技能-常用函数及综合练习（点播）/重点练习--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857160065449984/lud/c597e5c376134f5a827c4fb70dce94d1.m3u8?MtsHlsUriToken=f1ba1720875f401e946013ae3d5a7a1d44dec194acc84cb69b1c24ad8014a2da -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/4、Hive核心技能-常用函数及综合练习（点播）/总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857160627945472/lud/95d8fd0bc66949589fce1560061b3dba.m3u8?MtsHlsUriToken=44d419ca61144f3796ccc8d4839e4444d3a84ff2bd46409da60935db0a6941f8 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/5、20211027Hive常用函数-表连接（直播）/20211027Hive常用函数-表连接（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857160793161728/lud/0f9d098e2df14734b21b52b043cc0aaa.m3u8?MtsHlsUriToken=1d5cdf5b7bc140b1a4814e289f58a319cb2f453c50a14e7b920c053b8474eb02 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/6、Hive核心技能-窗口函数（点播）/章节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857160804630528/lud/a32f817a36864d03b62312e0b2c3e5fc.m3u8?MtsHlsUriToken=1c3f95cae026451484c1a4b6ba16217c38de968c01fe4a329001229630802661 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/6、Hive核心技能-窗口函数（点播）/累计计算窗口函数--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857161012248576/lud/8dc0abcfddc24dbfa236b53f3b098048.m3u8?MtsHlsUriToken=528d6a8d3c754a859bae0a6066e22b180c76552d3e2347a99460d98453ff93f9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/7、20211029Hive核心技能-窗口函数案例（直播）/20211029Hive核心技能-窗口函数案例（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857467904229376/lud/2726cd5b1fd54712997d4b3f9574482a.m3u8?MtsHlsUriToken=cc9eda1183764a32aca20da9e0e7ab7b2fdc6489d38e41c09bac4fc0c62229ef -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/8、Hive核心技能-优化技巧（点播）/本节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857467968258048/lud/2801a94904c64226b95b1191b7cf8482.m3u8?MtsHlsUriToken=b6d2ad7615bc488b8e85d6239462f134211f1e024bf445e1be543f1abcabb501 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/8、Hive核心技能-优化技巧（点播）/列裁剪和分区裁剪--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857467996569600/lud/97887a57bc6949f8a582c464b672ba2c.m3u8?MtsHlsUriToken=0de3803e769048b781dd5c8bd08a7bc90b0b9da200084a85b74ca08d0952a28a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/8、Hive核心技能-优化技巧（点播）/排序技巧--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857468641968128/lud/c6bdf333a4bf4d45870952238440fb3e.m3u8?MtsHlsUriToken=731a8dbb12c34681950a6ad08821e100852c406099bd431ba08f75b3602f9b23 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/9、20211103Hive核心技能-优化技巧（直播）/20211103Hive核心技能-优化技巧（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469031448576/lud/5497988be33d457f875eccb714e77729.m3u8?MtsHlsUriToken=c18f99731998472f82af35e01a601f75450e1b003a4747e881c996a0cbe8619b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/10、Hive核心技能-大数据分析综合案例（点播）/章节引导--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469045604352/lud/757d40c36db0464fb91f6243afda764f.m3u8?MtsHlsUriToken=c463b19bf2cf4be781bc9ee0e84665ece43d8c704cf742c6960bd1b833bec2c7 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/10、Hive核心技能-大数据分析综合案例（点播）/大数据分析业务--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469066018816/lud/868a11e5111549c181a93991d398a6a6.m3u8?MtsHlsUriToken=71e1aaf1a36d44e6b65308158540f312544262e6c5984f75ad4d94a86dbb7509 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/10、Hive核心技能-大数据分析综合案例（点播）/大数据分析基本流程--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469088661504/lud/9c5ca780d35b4fdea0761c195df41ede.m3u8?MtsHlsUriToken=ed2d4eb58c534de28e52f1a9b2d6bb09d1a2e4245d884719bf04630345f47641 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/10、Hive核心技能-大数据分析综合案例（点播）/常用的大数据分析模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469422632960/lud/3f70ce4d8440471295cf1cb974b01d32.m3u8?MtsHlsUriToken=80e079ddbe1d41d5b02bdba61b8cb37c318e5b70a14645279cb47553b223a8d6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/11、Hive核心技能-大数据分析综合案例（点播）/核心技术及指标体系--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469450944512/lud/090d495156b44d0ea448031ce556a55c.m3u8?MtsHlsUriToken=3f987760a5a84424924a35cd54bd4ebd5bbdcdec23af46a4a515419d9ec4d496 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/11、Hive核心技能-大数据分析综合案例（点播）/电商平台常见的指标体系--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469476569088/lud/4b6b9c721c414014a86e16158c8bde8a.m3u8?MtsHlsUriToken=a0e99dc145514b4ba6da9a7cd175fee26cb11833d8f042eaa5c3790363f79df6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/11、Hive核心技能-大数据分析综合案例（点播）/数据分析常用指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857469547380736/lud/da17147ef91c42da947b7b1bef9b9e3b.m3u8?MtsHlsUriToken=68778e06546f4304924a94002999d0517c9f0fce546d4fb085d71ebb1f544f64 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/11、Hive核心技能-大数据分析综合案例（点播）/章节总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857471252299776/lud/426754d44c9043a39a59dd6a477826f5.m3u8?MtsHlsUriToken=791fa82f25dd4afd88e564732722d37ccd69fb6397394630bf149ec70706b1f4 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/12、20211105Hive核心技能-数据库阶段总结 （直播）/20211105Hive核心技能-数据库阶段总结 （直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858424981028864/lud/cdba92fdcf0740dab17e705a274624c6.m3u8?MtsHlsUriToken=904435cd3a7d49a5aab4ed06298ecfe7702cb7be5f61456788057497a671c7d8 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/1、课程介绍--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858425049120768/lud/6357d6e2bd4346fab13f5fb2a7f1eb2b.m3u8?MtsHlsUriToken=8310b71d6208491ead9e52268e59b835debe8072d23d4056bec7a42015cbd214 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/2、创建3台虚拟机--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858425174425600/lud/6c4fdfe2b1c54011883b45cdf6d706c7.m3u8?MtsHlsUriToken=fd44464b9cb340e787a87157cc28bda2535394e0bbd247a59dc437a5f7c1d013 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/3、安装CentOS7系统--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858425499975680/lud/cf482c201bd1486db6d7533ecdc1cf40.m3u8?MtsHlsUriToken=7f3373643b90401fa92937b3608c462969e587ed5c0f4825983900e3bcd4448f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/4、MySQL5.7的安装--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858425739575296/lud/b4f97ce05b5747b38aea7c8c010ed25c.m3u8?MtsHlsUriToken=9c42a55c987a4b3486fd71e92c6454b2d147503a5b9a4896876c1b5ec5e36a31 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/5、虚拟机设置与免密登录--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858425908428800/lud/f2c777d7994548a9bdf27d25e5eac244.m3u8?MtsHlsUriToken=8c445f7a34e142a283dbb883a60db1a45ad72ee1987d496abd3be1c59fe1b66a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/6、完全分布式集群的搭建--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858426201571328/lud/958e7f3d63c848e8bc3d4bf988f9b5ca.m3u8?MtsHlsUriToken=740b5886cd3a4ce3afcc1d213df806403463df5d1d98486cbce23a3023a9e627 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/7、集群基准测试与使用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858426282278912/lud/4bc3cc9329384c73aec91a85f04ff3a8.m3u8?MtsHlsUriToken=7d4cc5c303bf4cf7b1e5bd95cd7ee11257707b5ec06c446481e793b1998a767a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/7、Hive进阶/13、完全分布式补充（不考核）/8、注意事项与总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857783866916864/lud/57140104b1b84b159d0b8a9c17d91a0a.m3u8?MtsHlsUriToken=a2c930a3040e469f843e8ec18df55e78a84dea9073894a89a4bc8c445c041f0a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/1、Excel基础图形一（点播）/excel可视化章节指引--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857783906828288/lud/02f57b35cced47a0ba227605539b13c6.m3u8?MtsHlsUriToken=cc4b48b4171244e9a9496994125341095b463cc8b983486abc5d74292629d888 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/1、Excel基础图形一（点播）/基本图形可视化--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784071421952/lud/f478bb2631e94aeb89376d4262ec2d70.m3u8?MtsHlsUriToken=0f1fe3b00ba846a68f722e6df2cfea52a7ee97d25b9544dab4e07b0204f1d3a2 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/1、Excel基础图形一（点播）/柱状图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784195121152/lud/3a1a29df44aa4b56b84b44a104825a75.m3u8?MtsHlsUriToken=51b87bbbfc53444aab4943eaa90cfc03ce9960e59dea49c197325f5377099e67 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/1、Excel基础图形一（点播）/折线图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784415289344/lud/6daaa772533d47a795416b7d27e35635.m3u8?MtsHlsUriToken=5ac565df64d648da9c89adfa087fc5bea900fda0c1a64f39a98c7a67e7ea3093 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/2、Excel基础图形二（点播）/饼图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784637587456/lud/0c398ff3928f4af0a41f21c121392cd9.m3u8?MtsHlsUriToken=7249e2a1f4774226a9a5469dc5f3713cf7f9d657a6d4413899e897c46d52de78 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/2、Excel基础图形二（点播）/箱线图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784726814720/lud/16087ae2d7514a09aea5914f4e0fc4dd.m3u8?MtsHlsUriToken=940ceffca780432c9c7a9669dd726f0ea3c55a3722604c71979632426f36743a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/2、Excel基础图形二（点播）/散点图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784771805184/lud/fffd492e9ede46b5a80164419d4355ae.m3u8?MtsHlsUriToken=fbce6296dd8a49c0bc7ec8c3e53db7808d936c6644684644abbc3c36487ef6ba -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/2、Excel基础图形二（点播）/总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784997773312/lud/6b11ab82db724f3caa5f3b39acfd4cd4.m3u8?MtsHlsUriToken=a156885d6d72472ab1ad3400587130d72b471504bfe84a169b00bba074c98a19 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/3、20211110Excel高级图表及动图（直播）/20211110Excel高级图表及动图（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857785047121920/lud/0382a6a0423c4ef69bc43542d0c20ab4.m3u8?MtsHlsUriToken=f3e02808bb4646a390fa44c83076d014f2c97d4f5a43430b84b4af8c5d5255a1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/4、Tableau 对比分析（点播）/章节学习指引--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857785072222208/lud/e325e30906ca4a78bf08f17f5e9a0c66.m3u8?MtsHlsUriToken=7da7c3d2bf7f4c838df7c95ab3bf3030e86e1598330340c580040e83a0bb2e53 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/4、Tableau 对比分析（点播）/对比分析各地区销售概况对比分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857785095913472/lud/8819777bbe724ae69d2d82340626871c.m3u8?MtsHlsUriToken=0a33aa5deb76476492979ba04c9a59902f02d5fc27674f7f98f5b13a127b054e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/4、Tableau 对比分析（点播）/对比分析各地区利润分布及细分客户类型利润占比--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857785111543808/lud/95eeca77193e4a74b7b7b4cde8a6e5e7.m3u8?MtsHlsUriToken=606b6d19677a4aeab2eb91e037420ad39d20dc0f0d27477089b20a129085893d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/4、Tableau 对比分析（点播）/实际销量与目标销量对比分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857785177636864/lud/880fb0d7547a4f078bf8aedb32853ecf.m3u8?MtsHlsUriToken=c02f84c0ea294ce4a52f842f1b76e6c140fb0b27851f4af8960be3c12212a550 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/5、20211112Tableau 常用可视化图表(直播)/20211112Tableau 常用可视化图表(直播)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858102825943040/lud/ef450fd366bb4f7ea7423e502fd26e3a.m3u8?MtsHlsUriToken=781ae912278a4b0582fddda81f749278ba373e3dd0e040a7af982750c153b8df -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/6、TableauKPI及同环比分析（点播）/kpi分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858102838984704/lud/cde4a55f86d44f7b8841a160a991718a.m3u8?MtsHlsUriToken=6c4c8b46b44e436083cd0212a7f6662c912c7f6df2ba45c4861ed931a2e03ee0 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/6、TableauKPI及同环比分析（点播）/同环比分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858102901374976/lud/d27c4fe583fe41bbaa3a6c1c2a790351.m3u8?MtsHlsUriToken=b734c70236194e969fedd67d8794d4e7ccc8415ebdc0469e9642d29d782d60ab -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/7、Tableau帕雷托分析归因分析用户行为分析（点播）/帕雷托分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858102925000704/lud/e64686ae5c6143248e179eb8e0832f05.m3u8?MtsHlsUriToken=a886604427c34c60be54f42ffc796ff98b89aa9d4fdb4942a1f400554b51c3b1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/7、Tableau帕雷托分析归因分析用户行为分析（点播）/归因分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103052402688/lud/279a7aa0d4664ae2bb53308149d16117.m3u8?MtsHlsUriToken=7af16b91a433456d85c9c5c8de17d27e7914c884954349d4a44aa2ddd51edce7 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/7、Tableau帕雷托分析归因分析用户行为分析（点播）/用户行为分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103141597184/lud/ea8ac8857e9e45e29553303185f44800.m3u8?MtsHlsUriToken=75ee3e181a9b4f3aad2301d3a3894ec3635f3ea91ba14d27ada8ec0a6d0b6017 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/8、20211117Tableau高级可视化图表（直播）/20211117Tableau高级可视化图表（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103250583552/lud/3744cf69c0a44dba86d6491de2f8e923.m3u8?MtsHlsUriToken=cff99d96056447c997a05ff9be85f8985d8cff8e316a4310abe41dc7c024909a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/9、Tableau PREP入门（点播）/商业智能架构图--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103279419392/lud/086af414df4d466e905dbc43184306af.m3u8?MtsHlsUriToken=2c52bf5cc3324beda023c55f62c1c38fb15c40c1fa65475d8ba19ca28d68f7c5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/9、Tableau PREP入门（点播）/PREP概述--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103527997440/lud/14ce04df51f24ecc8a6e2799da996e78.m3u8?MtsHlsUriToken=166edfcaa5b7411c8ffc8e6f3253b8fb0541fe17e9fc4f8baf1322fe0aefa8f7 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/9、Tableau PREP入门（点播）/KPI项目概述--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103560470528/lud/b8143f87af5747949e668536caba2d3d.m3u8?MtsHlsUriToken=16528470a6804773856b45b9e811bbae1fa6841f9cfb422296fd7cafd28ae6a3 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/9、Tableau PREP入门（点播）/计算上下班打卡时间--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103612833792/lud/bbc58d571eac4a43a8268f953e9dbff2.m3u8?MtsHlsUriToken=e81d99460b02430184b427c61e9a3232b5793fd809e841d28727a6315a4eac8d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/9、Tableau PREP入门（点播）/考勤明细表EDW层--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103697309696/lud/27b0d0793c3a4da380e8c08ea6e14c57.m3u8?MtsHlsUriToken=c89232a202644e85a6750775d65fb9a1dc07d0b95b1341b3a45a0e22b8bfb865 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/10、Tableau PREP进阶（点播）/考勤月统计报表--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103743414272/lud/b0aca5135f14460490000b5ab5b27a81.m3u8?MtsHlsUriToken=37d080836f1048f9a8565d361180dd30781f3dd2bfad462e95e3f9acf34d1b38 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/10、Tableau PREP进阶（点播）/日历表--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103819501568/lud/a7fc2d15542644339f494324d4f30382.m3u8?MtsHlsUriToken=145ddd4fd27e47bfb0318281fb326d97477733b0597e4e19884e5fc013510cb3 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/10、Tableau PREP进阶（点播）/实发工资--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858103882383360/lud/721d225cf98a4058a1cffc4605e976b3.m3u8?MtsHlsUriToken=d40dcb5a74954d769897db94be40a51126267e554b454ca49efa5716ef90b577 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/10、Tableau PREP进阶（点播）/拓展资料--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858104240472064/lud/38f86096217c43bbbd841718adfd9291.m3u8?MtsHlsUriToken=c62626fef4f249b889e79a1024f8938d0750a0253bb042acb2f013fb2bcd34d8 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/10、Tableau PREP进阶（点播）/总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858104061100032/lud/ed8a3478be7b4f15930d653f8abe4f1a.m3u8?MtsHlsUriToken=a5f79cd63c334bf49cc4302d1757d68e80bdc357ea884377b3d736e4f199c455 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/11、20211119Tableau 分析报告（直播）/20211119Tableau 分析报告（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858602446684160/lud/547296dc11fb4d599e41c8ba25f4043c.m3u8?MtsHlsUriToken=bce602a330e84f1c969ea99083d21f441e9d21de250547ab8eed1dc821b2e3b9 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/12、power bi（不考核）/power bi--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858606543437824/lud/9622c2473d384e8192add6e4bdb50a0b.m3u8?MtsHlsUriToken=be62274d042f47f0b09fcf50a3c52e03445a9a7476164901b997baab527c39eb -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/13、Power Bi 炫酷语言（不考核）/power bi炫酷语言--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858871537991680/lud/64bad411001c4941b2ea2fc79947af0e.m3u8?MtsHlsUriToken=1fa19fa69bc64131b4ce35fa949c45a28cf4490b1676409ea22c2139958bdf28 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/8、tableau高级可视化/14、Power Bi用户画像项目（不考核）/power bi用户画像项目--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858382947811328/lud/e8e6a18b72134d6d9f73fb4904107a54.m3u8?MtsHlsUriToken=194792067e2e4c5bbde807c3da99ae8cdc07efbaaf1b4f558fc46a0b4ca0a00f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/01什么是数据分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858383019114496/lud/6746195f8f1d4298b88e3661f72ffd3d.m3u8?MtsHlsUriToken=a2a55bf2d6d043ecaedd821254a24e54a8711735940f4058aeb6fdcf997deeba -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/02why需要数据指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858383394471936/lud/6075201c6a5a46a2bd98adb43a57a74d.m3u8?MtsHlsUriToken=fe1f134607cf415e8a0c004725df77e139d4464eff374de0ac97fb0b9ea4b746 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/03数据指标体系作用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858383522430976/lud/9aa9785a21324449bfd9dc8d71c1676a.m3u8?MtsHlsUriToken=8f280fc38766428d9866f811a7fe50c9c84714233901485ab914b67b8f0b88f5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/04入职公司先三步--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858383754067968/lud/c3cd8888cb26439f926e74f0ddc58c2b.m3u8?MtsHlsUriToken=88e06ef7090e4d9e83a9226ce4d067bd98a01d2137c24ad09efc56025e88e9ba -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/05获取数据--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858383992684544/lud/2a55a7885b324437a4bcfcb3fb3f3c9f.m3u8?MtsHlsUriToken=6c461097f0104c7ea84ab883e8af64ab4a29282164754fa0bce1922f8fa36275 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/06仪表盘分类--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384076505088/lud/e17a9d76c7ad43fabfb35ad68ff94b40.m3u8?MtsHlsUriToken=53a267daab84467fbfd7f0b3b1720eb2916a0bb9302644e59f9bf68aff7f5cae -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/07数据指标体系设计--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384140533760/lud/6e5caadae1ac455bbcd1e4d0a3fbfe00.m3u8?MtsHlsUriToken=7fecbeec0d9b4945a986d10440ddd2478e408873961f4623895ce067e84d2753 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/08数据指标拆解--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384255385600/lud/54f06ed422574ddb8c17050db3e0684d.m3u8?MtsHlsUriToken=2b8f7315aec74bd2b918b1545f476016e4282394695d4648adbc6f551879d61b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/09数据指标体系搭建--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384291004416/lud/364786d2f90046eba58b99b271589ae1.m3u8?MtsHlsUriToken=245c0f033fc54f98a6127d28d9d7918af40b98a71f284b8e99d83d31c73ad337 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/10案例北极星指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384361816064/lud/e88837109eac4d0998a01d7a8630ebc6.m3u8?MtsHlsUriToken=73654b664fe34fe6851e50e34443e0d88d12235fe38c4ddfbcc1b86944404d52 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/11搭建指标遇到的问题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384447799296/lud/6cbe14f1216045e9a6fdede8a19d313a.m3u8?MtsHlsUriToken=6e46fbf720544b7bae02804f06d41d99f01721ff29554ebabd4990dee721edd0 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/2、战略指标（点播）/12总结--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384538992640/lud/b48a8fd2afc841b29a28b492c3a3e552.m3u8?MtsHlsUriToken=9a8500d2c10b4e758a6b8ddf9b7f9f7e93c02bc4258f4dd78b2f8c02845dc4e1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/01搭建策略指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384609181696/lud/529fe0f35b4f49de92b285fafb088f0e.m3u8?MtsHlsUriToken=ccce79c0b3df46ac848c651c8a1e5e4b40cfd188256147158eba93ef7a1e2674 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/02内容回顾--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858384926408704/lud/eda377b72ef440cebc007216a157c4b1.m3u8?MtsHlsUriToken=65a55a04fccc4bd2be067eb155cbf9f6dbd2dc38986b4d0abafb1fa44a1d7e34 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/03目标拆解--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858385059643392/lud/c28903b5f7884f95bd308f1ed6451b13.m3u8?MtsHlsUriToken=8345898192d54bb8b05b992dd0c98ca66695f26872b140de9b7769ff03bdb5bf -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/04目标拆解易错点--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858385248387072/lud/8c3ff46e1614406289bd9fda1c7ef673.m3u8?MtsHlsUriToken=dee67a73abf74a4d984b6fc2b4c1f2cbf058c5d7cbf248cdbfec42cbb84d4e83 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/05策略指标拆解--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858385341710336/lud/798436c4d4e24bcf9eb599621c9266f0.m3u8?MtsHlsUriToken=b7d78eff39ba4f7f88a3fcccca9f3c0f2dd8c26e0b514b72904d9ed81be6485c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/06数学模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858385590714368/lud/84907a1edabb430db189a13b1003dbf2.m3u8?MtsHlsUriToken=7eff1daa5c2444f9b624e7832a1aea20570fb73594764053ae14da060e2df5d3 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/07初阶模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858385766809600/lud/c445b328f8bd4188988602e6bd535aa5.m3u8?MtsHlsUriToken=bbbd67a022e14310894e84ee576867da7fa54e71665843878eb94fd8fa481b5b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/08中阶模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858385939824640/lud/2a0dc5d7a7b04aef9282d1b2ed29bb67.m3u8?MtsHlsUriToken=f45ef8373bbb48b9b0ec15381d27da2d8f58630380234a848a85ee99368056e0 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/09实战模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386035310592/lud/4b5884e4ef5a416da3b93f92f1f3e1d9.m3u8?MtsHlsUriToken=c9623dcb73bf47afa936e9514532543c9798d8b475c64e668cdb32fe0a97f9a3 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/10kmeans聚类模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386068373504/lud/2f87c4fb99974ad38d818b92a2c6d035.m3u8?MtsHlsUriToken=713ce0699fb74575a03d64d850fff969ddb3cfb83dcc47e69c6b1a237df5caca -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/11rfm模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386312167424/lud/c73898da00014ba7b97a6c533eb07574.m3u8?MtsHlsUriToken=53adf1ba8ed449249cf52587c6461dcf575235d14fe844b8a25de3106f7fb935 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/12用户生命周期--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386374557696/lud/b59be0536a8a4db9aa631be8ea10421d.m3u8?MtsHlsUriToken=6eaeb54aa8574579a044629380aa291ff3633a42a0b44cbd9c6519950d90df8e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/3、策略指标（点播）/13数据指标体系检验--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386579456000/lud/797eec758dea43a6a23f59d55a320670.m3u8?MtsHlsUriToken=8a7ffe235da94323bc070f8ef4a986216b930caf90044de09e4911469cd9e785 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/4、分析师与上汇报 - 经营分析（直播）/20211124分析师与上汇报 - 经营分析（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386603114496/lud/adcf1a7c90fe4b4286aa3bc10d4a35a7.m3u8?MtsHlsUriToken=61ba6fe8303f41a7ac492bb74dfa9c23bfce60bd20314208ae25d5d4a98f7587 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/01数据方法论--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386652856320/lud/643a4ab38d814b52bad4ba3d80a701d0.m3u8?MtsHlsUriToken=ce9349efd4bb4eff89658b850c020b53babbf669092f4a89846f371857922600 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/02数据分析能力--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386744180736/lud/b7a957077ac34e4f93bb497328fc14ae.m3u8?MtsHlsUriToken=9fd1ca994e144b2a94fa900066c9c95d2e0dd002fe654b498cf627042711bd2b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/03数据分析项目步骤--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386838519808/lud/ee38fe2613e94a718d79d538a060fd75.m3u8?MtsHlsUriToken=4de4764bbb06405aa9959ac7a08d782ee864ea3ac4284470b532d8469d776368 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/04数据分析方法论作用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386889408512/lud/ca8b3095e42e46a49481c0b2fe64c7cc.m3u8?MtsHlsUriToken=43a06a907a5540f4a405d437161cba30605622565e224ee8b7f888aa98b7c118 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/05常用几种数据分析方法论--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386962808832/lud/5ac2cf932dfc465e90d37f236f942612.m3u8?MtsHlsUriToken=1d8fcf1de6d3433db621f25eea7856999427fbf2985942388875e6cf21d92fb1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/06人货场--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387125338112/lud/36ed143b5f4440f385b2d9e49bd7b304.m3u8?MtsHlsUriToken=0872a66034454f05bd6584b7c7ece13f85c24e36409e486ebd46ca95a7a5de00 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/07人货场之人--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387239567360/lud/89e67d4f5d1a4c12b9d977ac467e1f94.m3u8?MtsHlsUriToken=bfd41765031d46e6be0450fba7a777bd7ec2e63e6f9a4b02b291e925dac54c55 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/08用户生命周期--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387301433344/lud/126b957a07724092b98e90a002d9cbd1.m3u8?MtsHlsUriToken=27baab73b4794f4f826bb51cfe74211209c97527e5e64dabb67053ebcace3255 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/09人货场数据指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387351732224/lud/ff1f8f2a739542bf90c9a304f3f211cb.m3u8?MtsHlsUriToken=837699eeee2c42adbbae1d09e402b615d90dfc18eab34ebfb3c9bfe75ce5a1a1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/10人货场之货--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387419430912/lud/76d68bd374fb465eb08cba98af47a319.m3u8?MtsHlsUriToken=d3b3f1b491c349aa86eb900b26771d3ae2d773f27fc84eb8abd192b8d1a59646 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/11人货场之场--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387487031296/lud/dfaec81b60bb4599906c6e502e4aa4cb.m3u8?MtsHlsUriToken=0f2a6b3083e34e4aab46c066c499e79d717500fee09d4ceaad97652d83ef1896 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/12人货场应用--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387671121920/lud/60d312948e1e4e9395382d8f5c13e0ab.m3u8?MtsHlsUriToken=1aff7b419676428dab1e60ab5621a7b63eab00b581294c6fa637fdce358f09cd -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/13逻辑树--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387732987904/lud/09ec6f87fd0149aead0afcd8c10132a9.m3u8?MtsHlsUriToken=8cf53379828641d091f92b99b26a4d9d0448580dafc84f65a3d4e1892e46f98a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/145w2h方法论--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387781648384/lud/7c109f605b744ff8bd56e631126c54db.m3u8?MtsHlsUriToken=1ea55d1126034cfabc283fdd52dd2ef2446d5e98a10e4cf983c3fdab0a3101f1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/15PEST方法论--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858387894468608/lud/62c169ff434248d3adf6164081fa52df.m3u8?MtsHlsUriToken=5dc7fcb54c284e50a99071cf935ed98b5228397b1b8d4c3f9990ee9d670d4bfb -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/164P营销理论--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858388093599744/lud/39aeb8d89d30451e898e7ba844d57e89.m3u8?MtsHlsUriToken=bc291c1405014c0b9e88df96171a90a44d89c77a8a3845a58cd1f3c204093998 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/17用户行为分析方法论--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858388170768384/lud/c0392285193640469d7078a64d230008.m3u8?MtsHlsUriToken=35c77b3abdc74c4485e0e720bbc30fdbf536bbee928e4502970e971579e8a078 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/5、数据分析方法论（点播）/18SWOT--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858386729992192/lud/f0053ab06e044b66a0bbf643479644d9.m3u8?MtsHlsUriToken=808d3c37cf634559b1111fecf782414afc178ed5d9fe4e2aa05f99c5cedf122c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/6、分析师与上汇报 - 复盘分析（直播）/20211126分析师与上汇报 - 复盘分析（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858647943315456/lud/a9cf4a1653524436918b3782a173bca2.m3u8?MtsHlsUriToken=0b56311da234492d87a7aace421a35308ade1eaad629433fb8c6b082e0c11346 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/01数据分析报告--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858648002134016/lud/51533f688d61448ca88637adfb48a83f.m3u8?MtsHlsUriToken=5f9ae26ccf494470842932c075eab0c0730732e7193f49f3b0aa264f96f74e4f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/02数据分析师--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858648031985664/lud/17164f37afa24e129dd42782dfdb08db.m3u8?MtsHlsUriToken=0bba723c593d4e8691234955728838378e1040364af64daaba3cc69a19e78dd1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/03数据分析报告--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858648184520704/lud/db6b512c1feb420c87077dc587b7b4b5.m3u8?MtsHlsUriToken=f66f4145e1d04957b29f843f10bc82cf847b0bfe86ca43259b4aaa28bd9bc833 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/04数据分析报告面向对象--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858648265261056/lud/b4345addbbf2445493b62b5a34a4abe8.m3u8?MtsHlsUriToken=d3fe746c71f8429aaca29cf7cdd30c8c402e3a937c0e4c6e94ce945222f74f21 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/05数据分析报告种类--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858648536875008/lud/28ecb01200744559b5b9c7cf623749de.m3u8?MtsHlsUriToken=424a26e47d34422c8bebc2ff2fe83be7951b0a5c4a584f6990fafafa349b440e -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/06数据分析报告步骤--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858648817893376/lud/c5bdfa5f84cf416aae896d71fb0e7c65.m3u8?MtsHlsUriToken=8120dba7081c4ed091653367025953f486b7d2ff94904cda9e66ccb119bf07e0 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/07数据分析方法--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649006112768/lud/adc2f11474ec4e929ce72553f95ec0d7.m3u8?MtsHlsUriToken=431f93e425354a6a92bb97d776485fef5ec09727d9b24dfb9f8928f1ac5bd8a0 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/08数据指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649038651392/lud/19ddd04a09544fc3b165f2f6c521957a.m3u8?MtsHlsUriToken=25361f96c94d49aea2fb734e3508c30bc7c4b65692984e738845d822b63462ea -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/09数据分析报告注意事项--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649126207488/lud/38c3ff3054d5463b96ee368c309716d7.m3u8?MtsHlsUriToken=099f476129934e5fb2368dbe46d126b9ca58839f4bee4dd187cf2acc1e34c967 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/7、数据分析报告（点播）/10数据分析报告案例--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649539772416/lud/b62346389a27413fa54f3651684c6ce5.m3u8?MtsHlsUriToken=461fe21e300b4b0ab89e5a8cfb74a99020edd6ed903e4b4a8685e5d4baf9f7dc -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/8、产品功能相关介绍及目的（点播）/01产品功能相关介绍--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649635815424/lud/d878d2b0d60e4d5e999cf3fe94e8992e.m3u8?MtsHlsUriToken=01cc1aa334b647bf8308d72d507ee6520693f18c95874c95a287fbe9014cb797 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/8、产品功能相关介绍及目的（点播）/02产品功能分析目的--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649779929088/lud/c0009b84fa99408f9f98a7eaa1283863.m3u8?MtsHlsUriToken=0980adf99c334e3f8b5bcda92624e25217dae3b3d49c42d593c19e035685648a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/9、分析师专题分析 - 产品功能分析（直播）/20211203分析师专题分析 - 产品功能分析（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649891602432/lud/8d7c127c91bd45e6896e5bde6a060a27.m3u8?MtsHlsUriToken=52ea88f180c84ad886d09be6c1aa1dfeed003e95d8504a528de7c9f874daa897 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/10、活动推广及获客渠道（点播）/01活动推广--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858649963462656/lud/9ff95f21758a44d49d2493856d0f3614.m3u8?MtsHlsUriToken=88341438c5814df3a68217dd7844adc7e3bc99481fb44e2e87d71487c1c8e1d1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/10、活动推广及获客渠道（点播）/02获课渠道--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858650160070656/lud/747f45c6e5b44941a07c1f6c242ab8aa.m3u8?MtsHlsUriToken=f80d634dcbd948d09b5e6865e7fdfad919fc9ca7eb494626aa4e4c30701a76f4 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/11、分析师专题分析 - 流量分析（直播）/20211204分析师专题分析 - 流量分析（直播）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859009527545856/lud/190376cc5ca34f5b8f45c87a4a0323c8.m3u8?MtsHlsUriToken=5877cd430ea74c24971bf44ccacf577cc31bf5de4f3b4ad7add8e735c562a22a -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/12、用户分析(点播)/用户分析定义--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859009588822016/lud/ed77408f90e7460cb62710ef9dda4ec2.m3u8?MtsHlsUriToken=637552bb65fc4be7b9432fcc0f3807df1bba08e8a1924a9b94b067f59d258130 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/12、用户分析(点播)/用户分析目的--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859009631846400/lud/7c62e372adca466581bffd904e85693c.m3u8?MtsHlsUriToken=718b499ccc0340668e695b2d0dcdb04e29f2e7a633e442ad931c3fb3236f6dee -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/12、用户分析(点播)/如何进行用户分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859009717829633/lud/d5c54e9d3d67416c964b8fddcc2210e8.m3u8?MtsHlsUriToken=5cf69a0ff33f4a57b7f0e150e45de6a53c8206a8b54e43b78dbb7ae6b24d5a00 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/12、用户分析(点播)/用户分析常用指标--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859009887633408/lud/818b1e61c89f401e8160bf7c9a77d77e.m3u8?MtsHlsUriToken=55babf73522847308d1e621cda6958327d2572486c4a4c85bc31470392bc6a54 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/13、模型应用(点播)/RFM模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859009941700608/lud/6b0809ad06b54e75b69d522d07cea271.m3u8?MtsHlsUriToken=6359529e05e649a1b967848e29993b7d0fee8b9f456d4c3287c2c9c23921a73d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/13、模型应用(点播)/APL模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859010052259840/lud/d3d4cd1822b74107b554e202eba951f2.m3u8?MtsHlsUriToken=7af432b19ade4d788192e9da4f1a14c9b3144c7f61264a608e438cb2f40747f5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/13、模型应用(点播)/AARRR模型(获客)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859010190245888/lud/ea8029cd02b240c9839c573a743e9677.m3u8?MtsHlsUriToken=5d7f51349bea45d3802050c7c82765c11898f1ce4fb8444cacabf6eb176376f4 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/13、模型应用(点播)/AARRR模型(活跃)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859010387836928/lud/b2a09143ef744927ba62fac2b36b3efa.m3u8?MtsHlsUriToken=d55914257955451b8e962c0a2ed27b3bac695894b8b248c4a291ce434dffb4a0 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/13、模型应用(点播)/AARRR模型(留存)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859010554003456/lud/232fef996f60496fa03998ed6cfd4fc8.m3u8?MtsHlsUriToken=50c78f13ae41423c9de159790f45cb320ba2731641c34da0bbbfdab09a077078 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/13、模型应用(点播)/AARRR模型(营收)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859010686189568/lud/2dd4c7dd520246919147fdaf791c72f4.m3u8?MtsHlsUriToken=8e419c531eda463f8d031693344dee497b852bc1e84b4dbfbbd5a43a73b33241 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/13、模型应用(点播)/AARRR模型(传播)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859011319988224/lud/6c8e5fefd69a4ada9d6f09caeb6f2bee.m3u8?MtsHlsUriToken=f519e707159a4ba1a3e37462a25f62cfd1242b0d30e34dab8ff29b82a7d24cea -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/14、分析师专题-留存分析(直播)/20211208分析师专题-留存分析(直播)--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859011365109760/lud/516ed73dafb448138653c87b482e890b.m3u8?MtsHlsUriToken=b5a3faf921d64bdc96079fb70b2d3a8854d1d0a7dcd04cc18fdfc4a7edf5935d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/15、用户画像(点播)/用户画像--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859011668148224/lud/a00f7ce419d2482b84c4bd87f5f7cb12.m3u8?MtsHlsUriToken=2a1b358c1d9245ad8b5153d51e96dde3fef300ef2a704be4a12ecc90bd8437ae -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/16、分析师专题分析-用户画像理论与项目实战(直播)/20211210分析师专题分析-用户画像理论与项目实战(直播--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859330296348672/lud/2329fefdc2004f6c8c6340c85e0b8a8c.m3u8?MtsHlsUriToken=cb9c29857fa3420bb02192776bdc8ef097a98d5ca1094d75a5fdca01836fc50d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/17、运营分析/运营分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859330353463296/lud/513abe83c16e49bdb55f1287e9fc41cb.m3u8?MtsHlsUriToken=ec5a63b8da0945bf8e9e9c19296380fc0e30c4ad5e8b4f14b7da714ed46a824c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/17、运营分析/大数据时代背景--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859330413723648/lud/818262e5ec6d4a62afc094932e8a7857.m3u8?MtsHlsUriToken=9a564d9660684aba82b30d72a8fb5eb804129f993dbf4de6b1bd17e4e10ed03f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/17、运营分析/运营活动介绍--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859330884108288/lud/e15942a05f7e4268819f00e4d57dccfc.m3u8?MtsHlsUriToken=4097f88d407941d695d606fd914acb4c841283792e724519ba385014ff5143ca -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/18、运营效果评估/数据分析基础知识--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859331081699328/lud/c41d07f0c0814215b8af74252a9115f4.m3u8?MtsHlsUriToken=d1830ad125f140fabb765cc2ae02c190b15faed43b8e46888fd09f095ae4e7ab -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/18、运营效果评估/运营活动效果评估模型--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859239985086464/lud/9e2876c602ea4310ad0c0e3c0df4e4d2.m3u8?MtsHlsUriToken=d36677546e0f40d58f4827352db35d6ebbe2aa21885f4ea7ae18d32f695c8e9c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/19、分析师专题分析 - 运营活动效果评估理论回顾与项目实战/分析师专题分析 - 运营活动效果评估理论回顾与项目实战--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859331334373376/lud/404a804347a943af9c1832693be5c4a4.m3u8?MtsHlsUriToken=02ebbe28e4d6483aa1de6816a4016384c500fe0e9bae473a9336d2dabb156008 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/20、电商日常数据指标监控  不考核学分/课程内容介绍--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859331361144832/lud/d1789594b71a42639c616834b3fa36f0.m3u8?MtsHlsUriToken=f223438e598940289323ca641f9335e943f636f335894a4285f69d532b7d0cdb -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/20、电商日常数据指标监控  不考核学分/电商日常数据指标监控--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859240033386496/lud/6c3e1af182754c2b847ee4b6c6f22981.m3u8?MtsHlsUriToken=51035094f3034e758d2788d4fc7f25060522dc509eed4a32adb7af7841786a67 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/9、行业案例阶段/21、分析师专题分析 - 用户行为分析理论与实战/分析师专题分析 - 用户行为分析理论与实战--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859240552366080/lud/d9f2c283fae5463e91f5f2fe19ae3b0b.m3u8?MtsHlsUriToken=50c2b6b9308047b1b3e5e960e55f32a9f209745d67c9485a92c49e809aca2d48 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/10、就业指导/1、数据分析师技能树盘点与简历撰写/数据分析师技能树盘点与简历撰写--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859240608432128/lud/e7add18476e94d7ebe734b92d20de943.m3u8?MtsHlsUriToken=54ba45e1c77d4b3bbf4d28b2a13fc4b9748d70c2bee444eb91e6193bdd900ea5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/10、就业指导/2、数据分析师面试宝典/数据分析师面试宝典--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859240645689345/lud/2c5be3daaeca4c458cc3d0f26a9867e4.m3u8?MtsHlsUriToken=228601377cb04d3689211f4455aae33c187efe00a4c14c0c91bc23edb8f61310 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/1、描述性统计分析/描述性统计分析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859970179923968/lud/6c713bac589e404b985dffea0ba59500.m3u8?MtsHlsUriToken=4edbaa81436343919032291a1767c37339211ca15f0a44cd82a0ff91a29b10c4 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/2、作业解答+ 分位数手动求解（本节点播 - 不考核学分）/作业解答（视频）+ 分位数手动求解（视频）--01.mp4"
+ffmpeg -i https://v.baoshiyun.com/resource/media-859970192408576/lud/a0ad00f6012b402fa75fe6116ee84c0e.m3u8?MtsHlsUriToken=80b353679a3a4fb6af4945cd661c46c8ab687dd6996c4162bb5de3856d5ed4f5 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/2、作业解答+ 分位数手动求解（本节点播 - 不考核学分）/作业解答（视频）+ 分位数手动求解（视频）--02.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859240691859456/lud/7bac806d5b9e4a1c823d20cb7209d312.m3u8?MtsHlsUriToken=de1a7e40c0d14bdbb2b2e0be71fc99f79e4d48c6eb664d4a8ec374b42209bfef -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/3、推断统计分析——参数估计/推断统计分析——参数估计--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859970301984768/lud/d461f7fba760401d9ee2b72cea080ef5.m3u8?MtsHlsUriToken=8d6c09cc4e8e4822a36b309ad93d086fe4d841a9089044168bcfcc593038c1d4 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/4、作业解答（本节点播 - 不考核学分）/作业解答（本节点播 - 不考核学分）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860285023682560/lud/253e76caa1e64ef987fec37a6ac26871.m3u8?MtsHlsUriToken=40c8564b218a4237a218aeb41a313cb3d51d0dd424cd43228171df2e59502dc6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/5、基于RFM模型用户聚类/基于RFM模型用户聚类--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193102987264/lud/3969f153f2364f2d8ffed6f140c88cfa.m3u8?MtsHlsUriToken=e807d93b58a745f18d9ee3da0dda85fe3ff0d496369449b1ae6bb4bea227890f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/6、推断统计分析—假设检验/推断统计分析—假设检验--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860285517070336/lud/f8b564376ba6496cb4cae52f1944b2ca.m3u8?MtsHlsUriToken=59faabaf6d094550bf458a452246ea7315bfbd731bfe4ab7a630ceaf66ca9e80 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/7、作业解答/作业解答--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193165836288/lud/8eac685d934b4f4d8533b584a694d4e2.m3u8?MtsHlsUriToken=2d09f82380714202ae48e5422d06e37f36a7bc4913e548468a2ccec82d7a1773 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/8、常用假设检验一/常用假设检验一--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860548644700160/lud/852b32ac08b344298b2406b3dfed869d.m3u8?MtsHlsUriToken=c9b47368bcbd463f937976b95212f8815624c130a1ec4cb0973203cd6739310d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/9、作业解答/作业解答--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860774065373184/lud/8c408b4043ca4e44965115d1ba33e1f3.m3u8?MtsHlsUriToken=2b1f9d93378846b6aba3a1a73bfc38f5e45b11ee88bb4cb684c32c8d19ffd1e3 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/10、假设检验——谣言鉴定仪/假设检验——谣言检定仪--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193208336384/lud/2e7e57f2024d41b9808e45a0f72c85a3.m3u8?MtsHlsUriToken=1fcf459f543f427bbe9ba3deaded4a8f312688aa04904fba8d1e6ef289e9fbc2 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/11、常用假设检验二/常用假设检验二--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860548772102144/lud/8d802eb4a38142eebf49c8ddc4a96cb9.m3u8?MtsHlsUriToken=f9ffef01d6bf4f72b3dc1eb100a6b0773ccd89746c4d43e49fbd26009d983797 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/12、作业解答/作业解答--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193242939392/lud/c6391a4e47f44276b696589a19b0b0d2.m3u8?MtsHlsUriToken=1f48d42c4b384709a92224ffe64f905b90e0a79aaefd4159a1b7b99ac01fdc86 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/13、线性回归/线性回归--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860947839057920/lud/190801ca4ae9410bbb91067ff0d829e3.m3u8?MtsHlsUriToken=8deabb34b857459e8d913779a80bd712c8e355c2d32f4176b0f5959996d763f6 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/14、线性回归参数求解/线性回归参数求解--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860949233172480/lud/281d8765f8e94bbe99fd4ccbe8e6277e.m3u8?MtsHlsUriToken=21ba21119bbb460aba3cb3c6989a1f5b269aaafbcd5242348424370c8a6f725d -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/15、逻辑回归/逻辑回归--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193275379712/lud/5de821cba2ea4da3beeeab90901375f4.m3u8?MtsHlsUriToken=a0989696bc36414397b7c9f842fe12070f213cba919a4454af0161f786b2ee46 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/16、AQI分析与预测一/AQI分析与预测一--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860948415348736/lud/d6eaaa6689c4423fbcea06ab07ded8b9.m3u8?MtsHlsUriToken=343295102c094716a037b3855b81dcd6da6d254453d5473fb689fc27781bc8d1 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/17、KNN/KNN--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193335738368/lud/05fccf2570ff4f6984cea3aa5bc543e6.m3u8?MtsHlsUriToken=92ddf07acb08401d9e403772eab01afc8d024cde692a4ce4839e8ae7d3946945 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/18、AQI分析与预测二/AQI分析与预测二--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-861226651222016/lud/e9a8ed5cd1e449d6ac9f50e6deb57649.m3u8?MtsHlsUriToken=ff58c6a15b92428b8cd89cdbf365aacbae55036eb1b741c5b845790c3a253640 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/19、决策树/决策树--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-861226741923840/lud/5fb03d0d3f804936b4c3fb05f7c5db26.m3u8?MtsHlsUriToken=9a228f4cb5f143348e9bc497e7cd145b4d1ad753a4c747f88e9ae1d30c9add1b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/20、朴素贝叶斯/朴素贝叶斯--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193377157120/lud/a6879d548cea4273af8a733f1eff9349.m3u8?MtsHlsUriToken=5592dea4df7f4829baafb113c0a9219715fdbd9413f9494eafe2e04d5cec971b -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/21、时间序列分析一/时间序列分析一--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-861226757193728/lud/b1fb7fb2154c4b389e33a1d9ac3ab623.m3u8?MtsHlsUriToken=ff4cc58c7922474ca3a8978da67619ee06bea4437497468e8cfbc3afc0729ee0 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/22、KMeans/KMeans--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860193425850368/lud/656dca0d460746dda1d166c29086df4f.m3u8?MtsHlsUriToken=40f9f33252584afe80f050cf3291a3a42d38a50674b54b138f287ffcc475c47c -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/23、时间序列分析二/时间序列分析二--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-861226771873792/lud/30f457a04cf94abfa216fc74ce697b8f.m3u8?MtsHlsUriToken=c32d3e53e5e541c0a9bfd62169320d56b87fc81889c94c0885cb990bd925578f -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/24、新闻分类一/新闻分类一--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-861226783866880/lud/af37b60bd706412c8ae726e7a54fb1c2.m3u8?MtsHlsUriToken=5ad8dc94bb6e4910bd2c62645fdb53199be50d3872b342469bdbf52ef97f9405 -c copy -bsf:a aac_adtstoasc "/Users/hewiersung/Documents/work/study/lunzi/ffmpeg/video/11、方法论算法进阶/25、新闻分类二/新闻分类二--01.mp4"
